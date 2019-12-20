@@ -1,4 +1,6 @@
 zuul:
+
+  sensitive-headers: 
   routes:
     myProduct:
       path: /myProduct/**
